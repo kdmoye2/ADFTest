@@ -1,0 +1,9 @@
+{
+	"name": "TQAtestADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e10fc9e2-d772-41ad-a0c8-5aec3326553b",
+		"tenantId": "abde3117-f920-4ea0-b280-a94696a68864"
+	}
+}
